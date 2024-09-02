@@ -14,7 +14,7 @@
 }
 
 .navbar {
-    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    background-image: linear-gradient(to right, #17afba, #174d82);
     padding: 0 !important;
 }
 
@@ -41,7 +41,7 @@
 
 /*-------------------- Banner section------------------------*/
 #banner {
-    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    background-image: linear-gradient(to right, #17b2ba, #174d82);
     color: #fff;
     padding-top: 5%;
 }
@@ -50,4 +50,8 @@
     font-size: 40px;
     font-weight: 600;
     margin-top: 100px;
+}
+
+.bottom-img {
+    width: 100%;
 }
