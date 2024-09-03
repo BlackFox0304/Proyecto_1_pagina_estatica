@@ -98,3 +98,24 @@
     display: block;
     transform: translateY(8px);
 }*/
+
+/*-------------------- Conocimientos ------------------------*/
+#conocimientos {
+    background: #ecedee;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.conocimientos-title {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+
+#conocimientos ul li {
+    margin: 10px 0;
+}
+
+#conocimientos ul {
+    margin-left: 20px;
+}
