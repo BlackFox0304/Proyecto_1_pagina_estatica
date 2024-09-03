@@ -140,4 +140,24 @@
     text-transform: uppercase;
 }
 
-/*-------------------- Redes ------------------------*/
+/*-------------------- Contáctame ------------------------*/
+#contactame {
+    background: #ecedee;
+    padding: 100px 0;
+}
+
+#contactame p {
+    font-size: 36px;
+    font-weight: 600;
+
+    margin-bottom: 30px;
+}
+
+.socialmedia-icon img {
+    width: 50px;
+    transition: 0.5s;
+}
+
+.socialmedia-icon a:hover img {
+    transform: translateY(-20px);
+}
