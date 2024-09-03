@@ -87,18 +87,6 @@
     transform: translateY(63px);
 }
 
-/*.title::after {
-    content: '';
-    background: #174d82;
-    height: 10px;
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
-    display: block;
-    transform: translateY(8px);
-}*/
-
 /*-------------------- Conocimientos ------------------------*/
 #conocimientos {
     background: #ecedee;
@@ -160,4 +148,33 @@
 
 .socialmedia-icon a:hover img {
     transform: translateY(-20px);
+}
+
+/*-------------------- Footer ------------------------*/
+#footer {
+    background-image: linear-gradient(to right, #17b2ba, #174d82);
+    color: #fff;
+}
+
+.footer-img {
+    width: 100%;
+}
+
+.footer-box {
+    padding: 20px;
+}
+
+.footer-box img {
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+hr {
+    background-color: #fff;
+}
+
+.copyright {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
 }
